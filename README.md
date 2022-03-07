@@ -111,7 +111,7 @@ To deploy the RU and BY example complete the following items:
 - Then run the Terraform workflow referencing the input file
 ```
 terraform init
-terraform plan -var="input_filename=ip_group_ru_by_sample" -out=implement_example.tfplan
+terraform plan -var="input_filename=ip_group_ru_by_sample.json" -out=implement_example.tfplan
 terraform apply implement_example.tfplan
 ```
 
