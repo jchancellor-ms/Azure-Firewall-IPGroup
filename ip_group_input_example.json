@@ -1,46 +1,39 @@
 {  
     "ip_groups": [
         {
-            "comment": "ru group 1 of 5",
-            "ip_group_name": "ipg_ru_1",
+            "comment": "ipg group 1 of 5",
+            "ip_group_name": "ipg_part_1",
             "resource_group_name": "<enter creation resource group name>",
             "resource_group_location": "<enter creation resource group location>",            
-            "csv_filename": "ru_1.csv"
+            "csv_filename": "ipg_part_1.csv"
         },
         {
-            "comment": "ru group 2 of 5",
-            "ip_group_name": "ipg_ru_2",
+            "comment": "ipg group 2 of 5",
+            "ip_group_name": "ipg_part_2",
             "resource_group_name": "<enter creation resource group name>",
             "resource_group_location": "<enter creation resource group location>",           
-            "csv_filename": "ru_2.csv"
+            "csv_filename": "ipg_part_2.csv"
         },
         {
-            "comment": "ru group 3 of 5",
-            "ip_group_name": "ipg_ru_3",
+            "comment": "ipg group 3 of 5",
+            "ip_group_name": "ipg_part_3",
             "resource_group_name": "<enter creation resource group name>",
             "resource_group_location": "<enter creation resource group location>",            
-            "csv_filename": "ru_3.csv"
+            "csv_filename": "ipg_part_3.csv"
         },
         {
-            "comment": "ru group 4 of 5",
-            "ip_group_name": "ipg_ru_4",
+            "comment": "ipg group 4 of 5",
+            "ip_group_name": "ipg_part_4",
             "resource_group_name": "<enter creation resource group name>",
             "resource_group_location": "<enter creation resource group location>",             
-            "csv_filename": "ru_4.csv"
+            "csv_filename": "ipg_part_4.csv"
         },
         {
-            "comment": "ru group 5 of 5",
-            "ip_group_name": "ipg_ru_5",
+            "comment": "ipg group 5 of 5",
+            "ip_group_name": "ipg_part_5",
             "resource_group_name": "<enter creation resource group name>",
             "resource_group_location": "<enter creation resource group location>",          
-            "csv_filename": "ru_5.csv"
-        },
-        {
-            "comment": "by group 1 of 1",
-            "ip_group_name": "ipg_by_1",
-            "resource_group_name": "<enter creation resource group name>",
-            "resource_group_location": "<enter creation resource group location>",             
-            "csv_filename": "by_1.csv"
+            "csv_filename": "ipg_part_5.csv"
         }
     ]
 }
