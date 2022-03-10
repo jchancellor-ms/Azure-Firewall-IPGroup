@@ -9,4 +9,3 @@ resource "azurerm_ip_group" "this" {
   resource_group_name = var.resource_group_name
   cidrs               = local.cidr_list
 }
-

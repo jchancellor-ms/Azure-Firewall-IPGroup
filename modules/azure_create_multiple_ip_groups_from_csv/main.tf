@@ -6,6 +6,6 @@ module "create_ip_groups" {
   #go back to the root directory for the starting relative file location
   csv_file_path           = "./${each.value.csv_filename}"
   ip_group_name           = each.value.ip_group_name
-  resource_group_name     = each.value.resource_group_name
-  resource_group_location = each.value.resource_group_location
+  resource_group_name     = var.resource_group_name
+  resource_group_location = var.resource_group_location
 }
