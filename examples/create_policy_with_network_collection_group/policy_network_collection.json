@@ -51,7 +51,7 @@
                                             "destination_addresses": ["*"],
                                             "destination_ip_groups": [],
                                             "destination_fqdns": []
-                                        }
+                                        },
                                         {
                                             "name": "Region_Block_Destination_IPG_1",
                                             "protocols": ["Any"],

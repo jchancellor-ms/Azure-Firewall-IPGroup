@@ -1,0 +1,5 @@
+resource_group_name = "<insert resource group_name_here>"
+resource_group_location = "<insert deployment region here>"
+csv_file_path = "<path to the csv file>"
+waf_policy_name = "<name for the waf custom policy>"
+rule_name = "<name for the custom rule>"
